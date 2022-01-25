@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TomosZZZ
 - 🌱 I’m currently learning front-end languages and frame-works 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? email: okninski.t2004@gmail.com
 
 <!---
